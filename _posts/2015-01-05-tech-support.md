@@ -5,7 +5,9 @@ date:   2015-01-05
 categories: videos
 ---
 
-{% youtube qryZ3F_eDuo %}
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/qryZ3F_eDuo?rel=0" allowfullscreen></iframe>
+</div>
 
 A woman calls tech support for help. The technician gladly assists her, but makes strange noises with his mouth.
 
