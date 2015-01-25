@@ -4,14 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
-<ul class="post-list">
 {% for post in site.posts %}
-  <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-  </li>
+  <article class="post">
+  	<header class="clearfix">
+	    <h2 class="pull-left"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+	    <time class="pull-right date">{{ post.date | date: "%b. %-d, %Y" }}</time>
+    </header>
+    {{ post.excerpt }}
+  </article>
 {% endfor %}
-</ul>
