@@ -11,16 +11,12 @@ categories: videos
 
 A guy gets breakup advice from his girlfriend's best friend.
 
-Directed by Ben LeMenager
-
+Directed by Ben LeMenager<br>
 Written by Taylor Brown
 
-Liz: Emily LeClair
-
+Liz: Emily LeClair<br>
 Norman: Taylor Brown
 
-Director of Photography: Ben LeMenager
-
-Editor: Taylor Brown
-
+Director of Photography: Ben LeMenager<br>
+Editor: Taylor Brown<br>
 Sound Mixer: Tim Edison

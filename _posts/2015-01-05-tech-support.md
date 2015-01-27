@@ -13,14 +13,11 @@ A woman calls tech support for help. The technician gladly assists her, but make
 
 Written and Directed by Taylor Brown
 
-Cheryl: Katie Froelich
-
+Cheryl: Katie Froelich<br>
 Wes: Taylor Brown
 
-Director of Photography: Ben LeMenager
-
-Editor: Taylor Brown
-
+Director of Photography: Ben LeMenager<br>
+Editor: Taylor Brown<br>
 Sound Mixer: Alexander Andro
 
 Music: "Favorite Secrets" by Waylon Thornton
