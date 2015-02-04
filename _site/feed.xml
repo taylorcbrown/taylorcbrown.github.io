@@ -6,8 +6,8 @@
 </description>
     <link>http://taylorcbrown.com/</link>
     <atom:link href="http://taylorcbrown.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 01 Feb 2015 23:10:53 -0600</pubDate>
-    <lastBuildDate>Sun, 01 Feb 2015 23:10:53 -0600</lastBuildDate>
+    <pubDate>Wed, 04 Feb 2015 13:09:24 -0600</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2015 13:09:24 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/VOD1jlWt6o0?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A woman can’t get the conference room projector working for an important presentation. Her coworkers are less than helpful.&lt;/p&gt;
+&lt;p&gt;A woman can’t get the projector working for an important presentation. Her coworkers are less than helpful.&lt;/p&gt;
 
 &lt;p&gt;Written and Directed by Taylor Brown&lt;/p&gt;
 
@@ -31,6 +31,61 @@ Taylor Brown&lt;/p&gt;
 Director of Photography - Ben LeMenager&lt;br /&gt;
 Editor - Taylor Brown&lt;br /&gt;
 Sound Mixer - Alexander Andro&lt;/p&gt;
+
+&lt;h2 id=&quot;production-photos&quot;&gt;Production Photos&lt;/h2&gt;
+
+&lt;div id=&quot;carousel-example-generic&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;false&quot;&gt;
+  &lt;!-- Indicators --&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;!-- Wrapper for slides --&gt;
+  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+    &lt;div class=&quot;item active&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-jack-sean.jpg&quot; alt=&quot;Jack Pelzer and Sean Price&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-mary-beth-smith.jpg&quot; alt=&quot;Mary Beth Smith&quot; /&gt;
+    &lt;/div&gt;   
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-jack-pelzer-2.jpg&quot; alt=&quot;Jack Pelzer&quot; /&gt;
+    &lt;/div&gt;    
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-colleen-gburek-2.jpg&quot; alt=&quot;Colleen Gburek&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-sean-price.jpg&quot; alt=&quot;Sean Price&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-taylor-brown.jpg&quot; alt=&quot;Taylor Brown&quot; /&gt;
+    &lt;/div&gt;         
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-jack-pelzer.jpg&quot; alt=&quot;Jack Pelzer&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;item&quot;&gt;
+      &lt;img src=&quot;/assets/the-projector-mary-beth-smith-2.jpg&quot; alt=&quot;Mary Beth Smith&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;!-- Controls --&gt;
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 02 Feb 2015 00:00:00 -0600</pubDate>
         <link>http://taylorcbrown.com/videos/the-projector.html</link>
