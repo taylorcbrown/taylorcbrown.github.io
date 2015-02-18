@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://taylorcbrown.com/videos/kid-cuisine.html</loc>
+    <lastmod>2015-02-18T00:00:00-06:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://taylorcbrown.com/videos/the-projector.html</loc>
     <lastmod>2015-02-02T00:00:00-06:00</lastmod>
     <priority>0.8</priority>
@@ -31,14 +36,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://taylorcbrown.com/bits-and-pieces/</loc>
+    <lastmod>2015-02-18T17:08:43-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://taylorcbrown.com/</loc>
-    <lastmod>2015-02-04T13:09:24-06:00</lastmod>
+    <lastmod>2015-02-18T17:08:43-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://taylorcbrown.com/videos/</loc>
-    <lastmod>2015-02-04T13:09:24-06:00</lastmod>
+    <lastmod>2015-02-18T17:08:43-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
