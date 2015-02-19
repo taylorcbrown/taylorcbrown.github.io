@@ -21,7 +21,7 @@ Shorter videos will be around two minutes and operate under a low-budget challen
 
 Pieces
 ------
-Longer videos will be around six minutes and use a light film crew, with the great [Ben LeMenager](http://blulightmedia.com/) as Director of Photography. We'll use a Blackmagic Cinema Camera, professional lights, preamps, shotgun mics and much more of the shebang. Reasons for this:
+Longer videos will use a light film crew, with the great [Ben LeMenager](http://blulightmedia.com/) as Director of Photography. We'll use a Blackmagic Cinema Camera, professional lights, preamps, shotgun mics and much more of the shebang. Reasons for this:
 
 * Get good footage that looks and sounds great.
 * Experiment with longer content.
