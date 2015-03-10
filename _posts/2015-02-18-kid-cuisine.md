@@ -17,7 +17,7 @@ Zack Shornick<br>
 Taylor Brown
 
 Jacob Eugene Horn on the camera<br>
-Written and Produced by Taylor Brown
+Written, Directed and Produced by Taylor Brown
 
 Production Photos
 -----------------
