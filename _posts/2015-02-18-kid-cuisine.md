@@ -2,7 +2,7 @@
 layout: post
 title:  "Kid Cuisine or (The Unexpected Dietary Ignorance)"
 date:   2015-02-18
-categories: videos
+categories: videos bits
 description: Watch Kid Cuisine or (The Unexpected Dietary Ignorance). A guy gets hungry while hanging out at his friend's place, but there's only Kid Cuisines.
 ---
 
@@ -12,12 +12,14 @@ description: Watch Kid Cuisine or (The Unexpected Dietary Ignorance). A guy gets
 
 A guy gets hungry while hanging out at his friend's place for the first time. He explores the apartment and complements the fine decor. The food options are less palatable. There's only chocolate milk and Kid Cuisines.
 
+Written, Directed & Produced by Taylor Brown
+
 Featuring:<br>
 Zack Shornick<br>
 Taylor Brown
 
-Jacob Eugene Horn on the camera<br>
-Written, Directed and Produced by Taylor Brown
+Camera:<br>
+Jacob Eugene Horn
 
 Production Photos
 -----------------

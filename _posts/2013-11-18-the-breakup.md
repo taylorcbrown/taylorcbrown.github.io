@@ -2,7 +2,7 @@
 layout: post
 title:  "The Breakup"
 date:   2013-11-18
-categories: videos
+categories: videos pieces
 description: Watch The Breakup, a short comedy video where a guy gets breakup advice from his girlfriend's best friend.
 ---
 
