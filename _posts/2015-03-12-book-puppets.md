@@ -24,5 +24,5 @@ Taylor Brown
 Camera:<br>
 Patrick McLean
 
-Music:
-"Sandu" by [Hugo 'Droopy' Contini](http://www.myspace.com/rawbounce)
+Music:<br>
+"Sandu" by Hugo 'Droopy' Contini
