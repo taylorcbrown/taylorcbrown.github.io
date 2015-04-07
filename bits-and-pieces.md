@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About New Video Content
+title: Bits & Pieces
 permalink: /bits-and-pieces/
 description: I'm differentiating new videos into two categories, basically shorter and longer. I'll call them Bits and Pieces for the sake of branding (drink).
 ---

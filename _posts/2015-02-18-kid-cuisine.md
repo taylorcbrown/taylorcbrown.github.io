@@ -2,7 +2,7 @@
 layout: post
 title:  "Kid Cuisine or (The Unexpected Dietary Ignorance)"
 date:   2015-02-18
-categories: videos bits
+categories: videos
 description: Watch Kid Cuisine or (The Unexpected Dietary Ignorance). A guy gets hungry while hanging out at his friend's place, but there's only Kid Cuisines.
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
-description: Watch videos made by Taylor Brown. All videos were made in Chicago.
+description: Watch comedy videos made by Taylor Brown. All videos made in Chicago.
 ---
 
 {% for post in site.posts %}

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://taylorcbrown.com/videos/bits/copy-room.html</loc>
+    <loc>http://taylorcbrown.com/videos/copy-room.html</loc>
     <lastmod>2015-04-01T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
@@ -47,19 +47,19 @@
   </url>
   <url>
     <loc>http://taylorcbrown.com/bits-and-pieces/</loc>
-    <lastmod>2015-04-02T23:22:00-05:00</lastmod>
+    <lastmod>2015-04-07T17:18:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://taylorcbrown.com/</loc>
-    <lastmod>2015-04-02T23:22:00-05:00</lastmod>
+    <lastmod>2015-04-07T17:18:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://taylorcbrown.com/videos/</loc>
-    <lastmod>2015-04-02T23:22:00-05:00</lastmod>
+    <lastmod>2015-04-07T17:18:26-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

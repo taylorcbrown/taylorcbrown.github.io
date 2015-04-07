@@ -9,6 +9,7 @@ twitter_username: tcbrown
 github_username:  taylorcbrown
 youtube_username: mrtaylorb
 permalink: none
+include: [".htaccess"]
 gems:
   - jekyll-sitemap
 

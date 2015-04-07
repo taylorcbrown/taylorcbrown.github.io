@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Puppets"
 date:   2015-03-12
-categories: videos bits
+categories: videos
 description: Watch Book Puppets, a short comedy video where a couple uses their book covers as puppets.
 ---
 

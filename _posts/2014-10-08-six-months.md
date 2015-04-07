@@ -2,7 +2,7 @@
 layout: post
 title:  "Six Months"
 date:   2014-10-08
-categories: videos pieces
+categories: videos
 description: Watch Six Months, where a couple has a small fight on their six month anniversary. They discuss fashion, the middle class and the importance of cheese.
 
 ---

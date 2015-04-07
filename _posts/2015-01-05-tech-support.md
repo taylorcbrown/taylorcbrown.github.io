@@ -2,7 +2,7 @@
 layout: post
 title:  "Tech Support"
 date:   2015-01-05
-categories: videos pieces
+categories: videos
 description: Watch Tech Support. A woman calls tech support for help. The technician gladly assists her, but makes strange noises with his mouth.
 
 ---
