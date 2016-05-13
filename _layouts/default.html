@@ -18,12 +18,34 @@
   </head>
 
   <body>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MPWCVH"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MPWCVH');</script>
+    <!-- End Google Tag Manager -->
 
-    {% include header.html %}
+    <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+      <div class="containter">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3">
+            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>         
+            <ul class="nav navbar-nav pull-xs-right">
+              <li class="nav-item">
+                <a class="nav-link" href="/videos/">Videos</a>
+              </li>
+            </ul>
+          </div><!--col-->
+        </div><!--row-->
+      </div><!--container-->
+    </nav>
 
     <div class="container">
       <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-6 col-md-offset-3">
         {{ content }}
         </div>
       </div>
