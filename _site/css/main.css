@@ -29,6 +29,9 @@ h1, h2, .navbar-brand {
 /**
  * Clearfix
  */
+.btn {
+  color: white !important; }
+
 .wht-bdr {
   border: 1px white solid; }
 
@@ -38,10 +41,12 @@ h1, h2, .navbar-brand {
 .gry-bdr {
   border: 1px grey solid; }
 
-.nav-link {
-  color: rgba(255, 255, 255, 0.5) !important; }
-  .nav-link:hover {
-    color: #f0ad4e !important; }
+.navbar {
+  border-radius: 0 !important; }
+  .navbar .nav-link {
+    color: rgba(255, 255, 255, 0.5) !important; }
+    .navbar .nav-link:hover {
+      color: #f0ad4e !important; }
 
 /**
  * Site footer
@@ -58,11 +63,11 @@ h1, h2, .navbar-brand {
 
 /* Homepage */
 #home-bg {
-  background: url("/assets/home-bg.jpg") no-repeat;
+  background: url("/assets/img/home-bg.jpg") no-repeat;
   background-position: top center;
   height: 460px;
-  margin: -120px 0 0 0;
-  padding: 120px 0 0 0;
+  margin: -5em 0 2em 0;
+  padding: 7em 0 0 0;
   color: #fafafa;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -70,9 +75,16 @@ h1, h2, .navbar-brand {
   background-size: cover;
   text-shadow: 2px 2px 2px #000000;
   filter: dropshadow(color=#000000, offx=2, offy=2); }
+  #home-bg h1 {
+    color: #f0ad4e; }
+  #home-bg img {
+    margin-bottom: 1em; }
+
+h3 {
+  color: #f0ad4e !important; }
 
 .subscribe {
-  margin-top: 18px; }
+  margin: 0; }
 
 .embed-responsive {
   margin-bottom: 10px; }

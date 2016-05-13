@@ -1,12 +1,17 @@
 //Nav
 
-.nav-link  {
-  color: $grey !important;
-  
-  &:hover {
-    color: $yellow !important;
+.navbar {
+  border-radius: 0 !important;
+
+  .nav-link  {
+    color: $grey !important;
+    
+    &:hover {
+      color: $yellow !important;
+    }
   }
 }
+
 
 
 /**
@@ -26,24 +31,32 @@
 
 /* Homepage */
 #home-bg {
-    background: url('/assets/home-bg.jpg') no-repeat;
+    background: url('/assets/img/home-bg.jpg') no-repeat;
     background-position: top center;
     height: 460px;
-    margin: -120px 0 0 0;
-    padding: 120px 0 0 0;
+    margin: -5em 0 2em 0;
+    padding: 7em 0 0 0;
     color: #fafafa;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-text-shadow: 2px 2px 2px #000000;
-        filter: dropshadow(color=#000000, offx=2, offy=2);
+    text-shadow: 2px 2px 2px #000000;
+      filter: dropshadow(color=#000000, offx=2, offy=2);
+  h1 {
+    color: $yellow;
+  }
+  img {
+    margin-bottom: 1em;
+  }
+
 }
 
+h3 { color: $yellow !important; }
 
 
 .subscribe {
-    margin-top: 18px;
+    margin: 0;
 }
 
 //Bootstrap Mods
