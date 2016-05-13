@@ -1,3 +1,14 @@
+//Nav
+
+.nav-link  {
+  color: $grey !important;
+  
+  &:hover {
+    color: $yellow !important;
+  }
+}
+
+
 /**
  * Site footer
  */
@@ -28,6 +39,8 @@
 text-shadow: 2px 2px 2px #000000;
         filter: dropshadow(color=#000000, offx=2, offy=2);
 }
+
+
 
 .subscribe {
     margin-top: 18px;
