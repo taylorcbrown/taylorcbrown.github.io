@@ -17,9 +17,14 @@ $spacing-unit:     30px;
 
 //Colors
 
+$red: #d9534f;
 $yellow: #f0ad4e;
+$green: #5cb85c;
+$blue: #0275d8;
+$cyan: #5bc0de;
 $grey: rgba(255,255,255,.5);
 
+$main-color: $yellow;
 
 // Using media queries with like this:
 // @include media-query($palm) {
