@@ -7,7 +7,7 @@
     color: $grey !important;
     
     &:hover {
-      color: $main-color !important;
+      color: $yellow !important;
     }
   }
 }
@@ -44,7 +44,7 @@
     text-shadow: 2px 2px 2px #000000;
       filter: dropshadow(color=#000000, offx=2, offy=2);
   h1 {
-    color: $main-color;
+    color: $yellow;
   }
   img {
     margin-bottom: 1em;
@@ -52,7 +52,7 @@
 
 }
 
-h3 { color: $main-color !important; }
+h3 { color: $yellow !important; }
 
 
 .subscribe {
