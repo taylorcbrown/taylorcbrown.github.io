@@ -29,29 +29,41 @@
     <!-- End Google Tag Manager -->
 
     <nav class="navbar navbar-dark bg-inverse">
-      <div class="containter">
-        <div class="row">
-          <div class="col-md-6 col-md-offset-3">
-            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>         
-            <ul class="nav navbar-nav pull-xs-right">
-              <li class="nav-item">
-                <a class="nav-link" href="/videos/">Videos</a>
-              </li>
-            </ul>
-          </div><!--col-->
-        </div><!--row-->
+      <div class="container">
+        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>         
+        <ul class="nav navbar-nav pull-xs-right">
+          <li class="nav-item">
+            <a class="nav-link" href="/videos/">Videos</a>
+          </li>
+        </ul>
       </div><!--container-->
     </nav>
 
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 col-md-offset-3">
-          {{ content }}
-        </div>
-      </div>
-    </div>
+    {{ content }}
 
-    {% include footer.html %}
+    <footer class="footer"> 
+      <div class="container">
+
+        <p class="pull-left">&copy; 2016 Taylor Brown</p>
+        <ul class="list-inline pull-right">
+          <li class="list-inline-item">
+            <span class="fa fa-envelope"></span> 
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li class="list-inline-item">
+            <span class="fa fa-youtube"></span> 
+              <a href="https://www.youtube.com/user/{{ site.youtube_username }}">YouTube</a>
+          </li>
+          <li class="list-inline-item">
+            <span class="fa fa-twitter"></span>
+              <a href="https://twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>
+          </li>
+        </ul>
+
+      </div><!--container-->
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
 
   </body>
 </html>

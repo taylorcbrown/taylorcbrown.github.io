@@ -66,7 +66,7 @@ h1, h2, .navbar-brand {
   background: url("/assets/img/home-bg.jpg") no-repeat;
   background-position: top center;
   height: 460px;
-  margin: -5em 0 2em 0;
+  margin: -5em 0 0 0;
   padding: 7em 0 0 0;
   color: #fafafa;
   -webkit-background-size: cover;
@@ -83,12 +83,23 @@ h1, h2, .navbar-brand {
 h3 {
   color: #f0ad4e !important; }
 
-.dark-bg {
-  background: #333;
-  color: white;
+.bg {
   padding: 1.5rem 0; }
-  .dark-bg h2 {
-    color: #f0ad4e; }
+  .bg.dark {
+    background: #333;
+    color: white; }
+    .bg.dark h2 {
+      color: #f0ad4e; }
+  .bg.light {
+    background: #eee; }
+  .bg.main {
+    background: #f0ad4e; }
+    .bg.main h1 {
+      margin-bottom: 0; }
+    .bg.main .subscribe {
+      color: white;
+      background: black;
+      margin: 0; }
 
 .subscribe {
   margin: 0 0 20px 0;

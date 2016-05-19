@@ -34,7 +34,7 @@
     background: url('/assets/img/home-bg.jpg') no-repeat;
     background-position: top center;
     height: 460px;
-    margin: -5em 0 2em 0;
+    margin: -5em 0 0 0;
     padding: 7em 0 0 0;
     color: #fafafa;
     -webkit-background-size: cover;
@@ -54,12 +54,32 @@
 
 h3 { color: $main-color !important; }
 
-.dark-bg {
-  background: $dark;
-  color: white;
+.bg {
   padding: 1.5rem 0;
-  h2 {
-    color: $main-color;
+  
+  &.dark {
+    background: $dark;
+    color: white;
+    h2 {
+      color: $main-color;
+    }
+  }
+ 
+  &.light {
+    background: $light;
+  }
+
+  &.main {
+    background: $main-color;
+    h1 {
+      margin-bottom: 0;
+    }
+    .subscribe {
+      color: white;
+      background: black;
+      margin: 0;
+    }
+
   }
 }
 
