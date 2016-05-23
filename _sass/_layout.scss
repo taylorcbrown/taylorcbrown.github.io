@@ -116,6 +116,43 @@ h3 { color: $main-color !important; }
   }
 }
 
+//POSTS
+.post {
+  margin: 2em 0;
+  h1 {
+    margin-bottom: 1rem;
+  }
+}
+.related-thumbnail {
+  position: relative;
+
+  &:hover {
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    color: white !important;
+  }
+  img {
+    z-index: 0;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    &:hover {
+      filter: grayscale(0%);
+      -webkit-filter: grayscale(0%);
+    }
+  }
+  figcaption {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+    left: 0;
+    bottom: 10%;    
+    &:hover {
+      color: white;
+    }
+  }
+}
+
 //Bootstrap Mods
 .embed-responsive {
     margin-bottom: 10px;

@@ -120,6 +120,34 @@ h3 {
   .subscribe:hover {
     border-color: white !important; }
 
+.post {
+  margin: 2em 0; }
+  .post h1 {
+    margin-bottom: 1rem; }
+
+.related-thumbnail {
+  position: relative; }
+  .related-thumbnail:hover {
+    filter: grayscale(0%);
+    -webkit-filter: grayscale(0%);
+    color: white !important; }
+  .related-thumbnail img {
+    z-index: 0;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); }
+    .related-thumbnail img:hover {
+      filter: grayscale(0%);
+      -webkit-filter: grayscale(0%); }
+  .related-thumbnail figcaption {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    z-index: 1;
+    left: 0;
+    bottom: 10%; }
+    .related-thumbnail figcaption:hover {
+      color: white; }
+
 .embed-responsive {
   margin-bottom: 10px; }
 
