@@ -3,6 +3,7 @@ layout: post
 title:  "The Projector"
 date:   2015-02-02
 categories: videos
+thumbnail_image: "/assets/img/the-projector-thumbnail.jpg"
 description: Watch The Projector. A woman can't get the projector working for an important presentation. Her coworkers are less than helpful.
 ---
 

@@ -83,6 +83,31 @@ h3 { color: $main-color !important; }
   }
 }
 
+//Videos Page
+.thumbnail {
+  margin-bottom: 1.875rem;
+
+  img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+
+    &:hover {
+      filter: grayscale(0%);
+      -webkit-filter: grayscale(0%);
+    }  
+  }
+  a {
+    &:hover {
+     text-decoration: none !important;
+    }
+  }
+  
+  figcaption {
+    color: $main-color !important;
+  }
+
+}
+
 .subscribe {
     margin: 0 0 20px 0;
     border: 1px solid $main-color !important;

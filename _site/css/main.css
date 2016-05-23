@@ -101,6 +101,19 @@ h3 {
       background: black;
       margin: 0; }
 
+.thumbnail {
+  margin-bottom: 1.875rem; }
+  .thumbnail img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); }
+    .thumbnail img:hover {
+      filter: grayscale(0%);
+      -webkit-filter: grayscale(0%); }
+  .thumbnail a:hover {
+    text-decoration: none !important; }
+  .thumbnail figcaption {
+    color: #f0ad4e !important; }
+
 .subscribe {
   margin: 0 0 20px 0;
   border: 1px solid #f0ad4e !important; }
