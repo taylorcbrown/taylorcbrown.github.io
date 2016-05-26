@@ -12,31 +12,16 @@ layout: default
 
 		<div class="row">
 
-
-    {% for post in site.related_posts limit:4 %}
-		  {% if post.thumbnail_image %}
-     <div class="col-md-3">
-      <figure class="related-thumbnail">
-        <a href="{{post.url}}">
-          <img src="{{post.thumbnail_image}}" class="img-fluid" alt="{{ post.title }}">
-          <figcaption>{{ post.title }}</figcaption>
-        </a>
-      </figure>
-    </div>
-		  {% else %}
-		    {{ post.content | thumbnail_url: post.url, post.title }}
-		  {% endif %}
-		{% endfor %}
-	</div><!--row-->
-
-
-    {% for post in site.related_posts limit:4 %}
-		  {% if post.thumbnail_image %}
-		    <a href="{{ post.url }}" style="background-image: url({{ post.thumbnail_image }})" alt="{{ post.title }}" class="related-thumbnail"><span>{{ post.title }}</span></a>
-		  {% else %}
-		    {{ post.content | thumbnail_url: post.url, post.title }}
-		  {% endif %}
-		{% endfor %}
+	    {% for post in site.related_posts limit:4 %}
+			  {% if post.thumbnail_image %}
+		     	<div class="col-sm-6 col-md-6 col-lg-3">
+						<a href="{{ post.url }}" style="background-image: url({{ post.thumbnail_image }})" alt="{{ post.title }}" class="thumbnail"><span>{{ post.title }}</span></a>
+					</div>
+			  {% else %}
+			    {{ post.content | thumbnail_url: post.url, post.title }}
+			  {% endif %}
+			{% endfor %}
+		</div><!--row-->
   </article>
 
 </div>

@@ -125,27 +125,30 @@ h3 {
   .post h1 {
     margin-bottom: 1rem; }
 
-.related-thumbnail {
-  position: relative; }
-  .related-thumbnail:hover {
+.thumbnail {
+  position: relative;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 143px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; }
+  .thumbnail:hover {
     filter: grayscale(0%);
     -webkit-filter: grayscale(0%);
     color: white !important; }
-  .related-thumbnail img {
+  .thumbnail img {
     z-index: 0;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%); }
-    .related-thumbnail img:hover {
+    .thumbnail img:hover {
       filter: grayscale(0%);
       -webkit-filter: grayscale(0%); }
-  .related-thumbnail figcaption {
-    position: absolute;
+  .thumbnail span {
     text-align: center;
-    width: 100%;
-    z-index: 1;
-    left: 0;
-    bottom: 10%; }
-    .related-thumbnail figcaption:hover {
+    text-shadow: 1px 1px 1px #212121; }
+    .thumbnail span:hover {
       color: white; }
 
 .embed-responsive {
