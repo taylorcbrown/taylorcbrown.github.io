@@ -132,6 +132,8 @@ h3 { color: $main-color !important; }
   display: flex;
   flex-direction: column;
   justify-content: center;
+  filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
 
   &:hover {
     filter: grayscale(0%);
@@ -148,12 +150,16 @@ h3 { color: $main-color !important; }
       -webkit-filter: grayscale(0%);
     }
   }
+
   span {
     text-align: center;
     text-shadow: 1px 1px 1px rgba(33, 33, 33, 1);
+    filter: grayscale(0%) !important;
+      -webkit-filter: grayscale(0%) !important;
 
     &:hover {
       color: white;
+      text-decoration: none !important;
     }
   }
 }

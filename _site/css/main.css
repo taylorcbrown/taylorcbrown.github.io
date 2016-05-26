@@ -133,7 +133,9 @@ h3 {
   height: 143px;
   display: flex;
   flex-direction: column;
-  justify-content: center; }
+  justify-content: center;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%); }
   .thumbnail:hover {
     filter: grayscale(0%);
     -webkit-filter: grayscale(0%);
@@ -147,9 +149,12 @@ h3 {
       -webkit-filter: grayscale(0%); }
   .thumbnail span {
     text-align: center;
-    text-shadow: 1px 1px 1px #212121; }
+    text-shadow: 1px 1px 1px #212121;
+    filter: grayscale(0%) !important;
+    -webkit-filter: grayscale(0%) !important; }
     .thumbnail span:hover {
-      color: white; }
+      color: white;
+      text-decoration: none !important; }
 
 .embed-responsive {
   margin-bottom: 10px; }

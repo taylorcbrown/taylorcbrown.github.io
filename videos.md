@@ -6,15 +6,11 @@ description: Watch comedy videos made by Taylor Brown. All videos made in Chicag
 ---
 
 <div class="row">
-  
+
   {% for post in site.posts %}
-    <div class="col-sm-4">
-      <figure class="figure thumbnail">
-        <a href="{{post.url}}">
-          <img src="{{post.thumbnail_image}}" class="figure-img img-fluid" alt="{{ post.title }}">
-          <figcaption class="figure-caption">{{ post.title }}</figcaption>
-        </a>
-      </figure>
+    <div class="col-sm-6 col-md-6 col-lg-4">
+      <a href="{{ post.url }}" style="background-image: url({{ post.thumbnail_image }})" alt="{{ post.title }}" class="thumbnail"><span>{{ post.title }}</span></a>
     </div>
   {% endfor %}
+
 </div><!--row-->
