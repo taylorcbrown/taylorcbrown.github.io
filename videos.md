@@ -5,12 +5,17 @@ permalink: /videos/
 description: Watch comedy videos made by Taylor Brown. All videos made in Chicago.
 ---
 
-{% for post in site.posts %}
-  <article class="post">
-  	<header class="clearfix">
-	    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-	    <time class="date">{{ post.date | date: "%b. %-d, %Y" }}</time>
-    </header>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
+<div class="row">
+
+  {% for post in site.posts %}
+    <div class="col-sm-6 col-md-6 col-lg-4">
+      <figure class="thumbnail">
+        <a href="{{ post.url }}">
+          <img src="{{ post.thumbnail_image }}" class="img-fluid" alt="{{ post.title }}">
+          <figcaption>{{ post.title }}</figcaption> 
+        </a>    
+      </figure>
+    </div>
+  {% endfor %}
+
+</div><!--row-->

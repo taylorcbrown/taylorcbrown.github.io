@@ -1,3 +1,127 @@
+//Bootstrap Mods
+.embed-responsive {
+    margin-bottom: 10px;
+}
+
+//Nav
+
+.navbar {
+  border-radius: 0 !important;
+
+  .nav-link  {
+    color: $grey !important;
+    
+    &:hover {
+      color: $main-color !important;
+    }
+  }
+}
+
+/* Homepage */
+#home-bg {
+    background: url('/assets/img/home-bg.jpg') no-repeat;
+    background-position: top center;
+    height: 460px;
+    margin: -5em 0 0 0;
+    padding: 7em 0 0 0;
+    color: #fafafa;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-shadow: 2px 2px 2px #000000;
+      filter: dropshadow(color=#000000, offx=2, offy=2);
+  h1 {
+    color: $main-color;
+  }
+  img {
+    margin-bottom: 1em;
+  }
+
+}
+
+h3 { color: $main-color !important; }
+
+.bg {
+  padding: 1.5rem 0;
+  
+  &.dark {
+    background: $dark;
+    color: white;
+    h2 {
+      color: $main-color;
+    }
+  }
+ 
+  &.light {
+    background: $light;
+  }
+
+  &.main {
+    background: $main-color;
+    h1 {
+      margin-bottom: 0;
+    }
+    .subscribe {
+      color: white;
+      background: black;
+      margin: 0;
+    }
+
+  }
+}
+
+.subscribe {
+    margin: 0 0 20px 0;
+    border: 1px solid $main-color !important;
+  &:hover {
+    border-color: white !important;
+  }
+}
+
+// PAGES
+.thumbnail {
+  position: relative;
+  overflow: hidden;
+  max-height: 196px;
+  margin-bottom: 1.875rem;
+  @media (max-width: 61.9em) { 
+    max-height: 185px;
+  }
+  
+
+  img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+  }
+
+  &:hover {
+    img {
+      transition: all 1s ease-out;
+      transform: scale(1.05);
+      filter: grayscale(0%);
+      -webkit-filter: grayscale(0%);
+
+    } 
+  }
+
+  figcaption {
+    text-shadow: 1px 1px 1px rgba(33, 33, 33, 1);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+//POSTS
+.post {
+  margin: 2em 0;
+  h1 {
+    margin-bottom: 1rem;
+  }
+}
+
 /**
  * Site footer
  */
@@ -5,36 +129,14 @@
 .footer {
   position: absolute;
   bottom: 0;
+  color: #a0a0a0;
   width: 100%;
-  border-top: 1px solid #e3e3e3;
-  padding: $spacing-unit 0;
+  padding: 1rem 0;
   /* Set the fixed height of the footer here */
-  height: 110px;
-  background-color: #f5f5f5;
-}
+  height: 60px;
+  background-color: #141414;
 
-/* Homepage */
-#home-bg {
-    background: url('/assets/home-bg.jpg') no-repeat;
-    background-position: top center;
-    height: 460px;
-    margin: -120px 0 0 0;
-    padding: 120px 0 0 0;
-    color: #fafafa;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-text-shadow: 2px 2px 2px #000000;
-        filter: dropshadow(color=#000000, offx=2, offy=2);
+  @media (max-width: 47.9em) { 
+    height: 120px;
+  }
 }
-
-.subscribe {
-    margin-top: 18px;
-}
-
-//Bootstrap Mods
-.embed-responsive {
-    margin-bottom: 10px;
-}
-

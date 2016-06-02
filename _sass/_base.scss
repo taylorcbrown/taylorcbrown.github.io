@@ -11,7 +11,6 @@ ul, ol, dl, figure,
 
 //Start Modification
 
-
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
@@ -23,8 +22,15 @@ html {
  * Basic styling
  */
 body {
-    /* Margin bottom by footer height */
-    margin-bottom: 120px !important;
+  /* Margin bottom by footer height */
+  margin-bottom: 50px !important;
+  @media (max-width: 47.9em) { 
+    margin-bottom: 110px !important;
+  }
+}
+
+a { 
+  color: $main-color !important;
 }
 
 // Headers
@@ -42,6 +48,10 @@ h1, h2, .navbar-brand {
         display: table;
         clear: both;
     }
+}
+
+.btn {
+  color: white !important;
 }
 
 // Fancies
