@@ -19,28 +19,41 @@
 
 /* Homepage */
 #home-bg {
-    background: url('/assets/img/home-bg.jpg') no-repeat;
-    background-position: top center;
-    height: 460px;
-    margin: -5em 0 0 0;
-    padding: 7em 0 0 0;
-    color: #fafafa;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    text-shadow: 2px 2px 2px #000000;
-      filter: dropshadow(color=#000000, offx=2, offy=2);
+  position: relative;
+  color: #fafafa;
+  text-shadow: 2px 2px 2px #000000;
+  filter: dropshadow(color=#000000, offx=2, offy=2);
+  margin-bottom: -6px;
+
+  video {
+    width: 100%;
+  }
+  .home-overlay {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+    text-align: center;
+    margin: 0;
+    width: 100%;
+  }
+
   h1 {
     color: $main-color;
+    @media (max-width: 34em) { 
+      font-size: 2rem;
+    }
+
   }
-  img {
-    margin-bottom: 1em;
+  p {
+    @media (max-width: 34em) { 
+      font-size: 1rem;
+    }
   }
 
 }
 
-h3 { color: $main-color !important; }
+
 
 .bg {
   padding: 1.5rem 0;
@@ -85,8 +98,11 @@ h3 { color: $main-color !important; }
   overflow: hidden;
   max-height: 196px;
   margin-bottom: 1.875rem;
-  @media (max-width: 61.9em) { 
-    max-height: 185px;
+  @media (max-width: 48em) { 
+    max-height: 145px;
+  }
+  @media (min-width: 62em) {
+    max-height: 196px;
   }
   
 
@@ -121,6 +137,12 @@ h3 { color: $main-color !important; }
     margin-bottom: 1rem;
   }
 }
+.breadcrumb {
+  margin-bottom: 1.25rem;
+}
+.carousel {
+  margin-bottom: 2rem;
+}
 
 /**
  * Site footer
@@ -136,7 +158,7 @@ h3 { color: $main-color !important; }
   height: 60px;
   background-color: #141414;
 
-  @media (max-width: 47.9em) { 
+  @media (max-width: 48em) { 
     height: 120px;
   }
 }

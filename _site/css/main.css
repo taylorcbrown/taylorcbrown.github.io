@@ -19,7 +19,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 50px !important; }
-  @media (max-width: 47.9em) {
+  @media (max-width: 48em) {
     body {
       margin-bottom: 110px !important; } }
 
@@ -29,11 +29,21 @@ a {
 h1, h2, .navbar-brand {
   font-family: "Cantata One", serif !important; }
 
+h3 {
+  color: #f0ad4e !important; }
+
 /**
  * Clearfix
  */
 .btn {
   color: white !important; }
+
+@media (max-width: 34em) {
+  .smaller {
+    font-size: 1.5rem;
+    height: 38px;
+    line-height: 38px;
+    white-space: nowrap; } }
 
 .wht-bdr {
   border: 1px white solid; }
@@ -56,25 +66,29 @@ h1, h2, .navbar-brand {
 
 /* Homepage */
 #home-bg {
-  background: url("/assets/img/home-bg.jpg") no-repeat;
-  background-position: top center;
-  height: 460px;
-  margin: -5em 0 0 0;
-  padding: 7em 0 0 0;
+  position: relative;
   color: #fafafa;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   text-shadow: 2px 2px 2px #000000;
-  filter: dropshadow(color=#000000, offx=2, offy=2); }
+  filter: dropshadow(color=#000000, offx=2, offy=2);
+  margin-bottom: -6px; }
+  #home-bg video {
+    width: 100%; }
+  #home-bg .home-overlay {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+    text-align: center;
+    margin: 0;
+    width: 100%; }
   #home-bg h1 {
     color: #f0ad4e; }
-  #home-bg img {
-    margin-bottom: 1em; }
-
-h3 {
-  color: #f0ad4e !important; }
+    @media (max-width: 34em) {
+      #home-bg h1 {
+        font-size: 2rem; } }
+  @media (max-width: 34em) {
+    #home-bg p {
+      font-size: 1rem; } }
 
 .bg {
   padding: 1.5rem 0; }
@@ -105,9 +119,12 @@ h3 {
   overflow: hidden;
   max-height: 196px;
   margin-bottom: 1.875rem; }
-  @media (max-width: 61.9em) {
+  @media (max-width: 48em) {
     .thumbnail {
-      max-height: 185px; } }
+      max-height: 145px; } }
+  @media (min-width: 62em) {
+    .thumbnail {
+      max-height: 196px; } }
   .thumbnail img {
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%); }
@@ -128,6 +145,12 @@ h3 {
   .post h1 {
     margin-bottom: 1rem; }
 
+.breadcrumb {
+  margin-bottom: 1.25rem; }
+
+.carousel {
+  margin-bottom: 2rem; }
+
 /**
  * Site footer
  */
@@ -140,7 +163,7 @@ h3 {
   /* Set the fixed height of the footer here */
   height: 60px;
   background-color: #141414; }
-  @media (max-width: 47.9em) {
+  @media (max-width: 48em) {
     .footer {
       height: 120px; } }
 

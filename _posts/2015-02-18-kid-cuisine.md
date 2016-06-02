@@ -37,30 +37,30 @@ Production Photos
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
+    <div class="carousel-item active">
       <img src="/assets/img/kid-cuisine-shopping.jpg" alt="Shopping for Kid Cuisines">
     </div>  
-    <div class="item">
+    <div class="carousel-item">
       <img src="/assets/img/kid-cuisine-taylor-jacob-2.jpg" alt="Taylor Brown and Jacob Eugene Horn">
     </div>    
-    <div class="item">
+    <div class="carousel-item">
       <img src="/assets/img/kid-cuisine-taylor-zack.jpg" alt="Taylor Brown and Zack Shornick">
     </div>
-    <div class="item">
+    <div class="carousel-item">
       <img src="/assets/img/kid-cuisine-jacob.jpg" alt="Jacob Eugene Horn">
     </div>  
-    <div class="item">
+    <div class="carousel-item">
       <img src="/assets/img/kid-cuisine-taylor-jacob.jpg" alt="Taylor Brown and Jacob Eugene Horn">
     </div>
   </div>
 
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="icon-prev" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="icon-next" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>
