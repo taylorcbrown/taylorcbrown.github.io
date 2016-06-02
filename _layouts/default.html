@@ -43,22 +43,22 @@
 
     <footer class="footer"> 
       <div class="container">
-
-        <p class="pull-left">&copy; {{ site.time | date: '%Y' }} Taylor Brown</p>
-        <ul class="list-inline pull-right">
-          <li class="list-inline-item">
-            <span class="fa fa-envelope"></span> 
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li class="list-inline-item">
-            <span class="fa fa-youtube"></span> 
-              <a href="//www.youtube.com/user/{{ site.youtube_username }}">YouTube</a>
-          </li>
-          <li class="list-inline-item">
-            <span class="fa fa-twitter"></span>
-              <a href="//twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>
-          </li>
-        </ul>
-
+        <div class="row">
+          <p class="col-lg-6 col-md-5">&copy; {{ site.time | date: '%Y' }} Taylor Brown</p> 
+          <ul class="list-inline col-lg-6 col-md-7">
+            <li class="list-inline-item">
+              <span class="fa fa-envelope"></span> 
+              <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li class="list-inline-item">
+              <span class="fa fa-youtube"></span> 
+                <a href="//www.youtube.com/user/{{ site.youtube_username }}">YouTube</a>
+            </li>
+            <li class="list-inline-item">
+              <span class="fa fa-twitter"></span>
+                <a href="//twitter.com/{{ site.twitter_username }}">{{ site.twitter_username }}</a>
+            </li>
+          </ul>
+        </div><!--row-->
       </div><!--container-->
     </footer>
 
