@@ -47,28 +47,28 @@ Production Photos
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/assets/the-projector-jack-sean.jpg" alt="Jack Pelzer and Sean Price">
+      <img src="/assets/img/the-projector-jack-sean.jpg" alt="Jack Pelzer and Sean Price">
     </div>
     <div class="item">
-      <img src="/assets/the-projector-mary-beth-smith.jpg" alt="Mary Beth Smith">
+      <img src="/assets/img/the-projector-mary-beth-smith.jpg" alt="Mary Beth Smith">
     </div>   
     <div class="item">
-      <img src="/assets/the-projector-jack-pelzer-2.jpg" alt="Jack Pelzer">
+      <img src="/assets/img/the-projector-jack-pelzer-2.jpg" alt="Jack Pelzer">
     </div>    
     <div class="item">
-      <img src="/assets/the-projector-colleen-gburek-2.jpg" alt="Colleen Gburek">
+      <img src="/assets/img/the-projector-colleen-gburek-2.jpg" alt="Colleen Gburek">
     </div>
     <div class="item">
-      <img src="/assets/the-projector-sean-price.jpg" alt="Sean Price">
+      <img src="/assets/img/the-projector-sean-price.jpg" alt="Sean Price">
     </div>
     <div class="item">
-      <img src="/assets/the-projector-taylor-brown.jpg" alt="Taylor Brown">
+      <img src="/assets/img/the-projector-taylor-brown.jpg" alt="Taylor Brown">
     </div>         
     <div class="item">
-      <img src="/assets/the-projector-jack-pelzer.jpg" alt="Jack Pelzer">
+      <img src="/assets/img/the-projector-jack-pelzer.jpg" alt="Jack Pelzer">
     </div>
     <div class="item">
-      <img src="/assets/the-projector-mary-beth-smith-2.jpg" alt="Mary Beth Smith">
+      <img src="/assets/img/the-projector-mary-beth-smith-2.jpg" alt="Mary Beth Smith">
     </div>
   </div>
 

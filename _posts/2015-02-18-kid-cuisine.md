@@ -38,19 +38,19 @@ Production Photos
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/assets/kid-cuisine-shopping.jpg" alt="Shopping for Kid Cuisines">
+      <img src="/assets/img/kid-cuisine-shopping.jpg" alt="Shopping for Kid Cuisines">
     </div>  
     <div class="item">
-      <img src="/assets/kid-cuisine-taylor-jacob-2.jpg" alt="Taylor Brown and Jacob Eugene Horn">
+      <img src="/assets/img/kid-cuisine-taylor-jacob-2.jpg" alt="Taylor Brown and Jacob Eugene Horn">
     </div>    
     <div class="item">
-      <img src="/assets/kid-cuisine-taylor-zack.jpg" alt="Taylor Brown and Zack Shornick">
+      <img src="/assets/img/kid-cuisine-taylor-zack.jpg" alt="Taylor Brown and Zack Shornick">
     </div>
     <div class="item">
-      <img src="/assets/kid-cuisine-jacob.jpg" alt="Jacob Eugene Horn">
+      <img src="/assets/img/kid-cuisine-jacob.jpg" alt="Jacob Eugene Horn">
     </div>  
     <div class="item">
-      <img src="/assets/kid-cuisine-taylor-jacob.jpg" alt="Taylor Brown and Jacob Eugene Horn">
+      <img src="/assets/img/kid-cuisine-taylor-jacob.jpg" alt="Taylor Brown and Jacob Eugene Horn">
     </div>
   </div>
 
