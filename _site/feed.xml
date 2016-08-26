@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taylor Brown</title>
-    <description>Taylor Brown is an SEO Specialist for Tribune Publishing. He&#39;s also a Los Angeles filmmaker and comedy person.
+    <description>Taylor Brown is an SEO Specialist for Tribune Publishing. He's also a Los Angeles filmmaker and comedy person.
 </description>
     <link>http://taylorcbrown.com/</link>
     <atom:link href="http://taylorcbrown.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Aug 2016 08:15:24 -0700</pubDate>
-    <lastBuildDate>Mon, 15 Aug 2016 08:15:24 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Fri, 26 Aug 2016 09:32:21 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Aug 2016 09:32:21 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Ketchup</title>
@@ -51,27 +51,6 @@ Camera: Brandon Shockney&lt;/p&gt;
         <pubDate>Thu, 04 Aug 2016 00:00:00 -0700</pubDate>
         <link>http://taylorcbrown.com/videos/long-time-no-see.html</link>
         <guid isPermaLink="true">http://taylorcbrown.com/videos/long-time-no-see.html</guid>
-        
-        
-        <category>videos</category>
-        
-      </item>
-    
-      <item>
-        <title>Graphics</title>
-        <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
-	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/xTGRYXTVZXU?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Guy plays a new video game with the best graphics ever. Friend sees what’s up. They play the game and marvel at the graphics together.&lt;/p&gt;
-
-&lt;p&gt;Written, Directed &amp;amp; Produced by Taylor Brown&lt;br /&gt; 
-Featuring: Brandon Shockney, Taylor Brown and Jon Pernisek&lt;br /&gt;
-Camera: Patrick McLean&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/graphics.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/graphics.html</guid>
         
         
         <category>videos</category>
@@ -155,7 +134,7 @@ Andrew Garman&lt;/p&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
       &lt;img src=&quot;/assets/img/copy-room-john-andrew.jpg&quot; alt=&quot;John Campbell and Andrew Garman&quot; /&gt;
       &lt;div class=&quot;carousel-caption&quot;&gt;
-        &lt;p&gt;Andrew joking about a candy store robbery. I watched this footage again and again even though I couldn&#39;t use it.&lt;/p&gt;
+        &lt;p&gt;Andrew joking about a candy store robbery. I watched this footage again and again even though I couldn't use it.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
@@ -426,6 +405,38 @@ Sound Mixer: Alexander Andro&lt;/p&gt;
         <pubDate>Wed, 08 Oct 2014 00:00:00 -0700</pubDate>
         <link>http://taylorcbrown.com/videos/six-months.html</link>
         <guid isPermaLink="true">http://taylorcbrown.com/videos/six-months.html</guid>
+        
+        
+        <category>videos</category>
+        
+      </item>
+    
+      <item>
+        <title>The Man</title>
+        <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/2gK33vtXB3U?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Two young men discuss the finer points of everything. They have rackets and play. Gentlemen fight with umbrellas for their hats. The Man observes all. Except the viewer. She sees even him.&lt;/p&gt;
+
+&lt;p&gt;Written, Directed by Taylor Brown&lt;/p&gt;
+
+&lt;p&gt;Deno: Ollie Hobson&lt;br /&gt;
+Alek: Taylor Brown&lt;br /&gt;
+The Man: Matt Kidd&lt;br /&gt;
+Gentleman: John Campbell&lt;br /&gt;
+Gentleman: Jack Pelzer&lt;br /&gt;
+Viewer: Aubrey Ryan&lt;/p&gt;
+
+&lt;p&gt;Director of Photography: Ben LeMenager&lt;br /&gt;
+Editor: Taylor Brown&lt;br /&gt;
+Sound Mixer: Alexander Andro&lt;/p&gt;
+
+&lt;p&gt;Song: “Une Glace au Citron [A Lemon Ice] (acoustique)” by Miss Emma&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Sep 2014 00:00:00 -0700</pubDate>
+        <link>http://taylorcbrown.com/videos/the-man.html</link>
+        <guid isPermaLink="true">http://taylorcbrown.com/videos/the-man.html</guid>
         
         
         <category>videos</category>

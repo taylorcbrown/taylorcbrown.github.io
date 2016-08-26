@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Taylor Brown is an SEO Specialist for Tribune Publishing. He's also a Los Angeles filmmaker and comedy person.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://taylorcbrown.com" # the base hostname & protocol for your site
-twitter_username: tcbrown
 github_username:  taylorcbrown
 youtube_username: mrtaylorb
 permalink: none
