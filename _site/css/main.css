@@ -122,7 +122,10 @@ h3 {
   @media (max-width: 48em) {
     .thumbnail {
       max-height: 145px; } }
-  @media (min-width: 62em) {
+  @media (min-width: 768px) {
+    .thumbnail {
+      max-height: 185px; } }
+  @media (min-width: 992px) {
     .thumbnail {
       max-height: 196px; } }
   .thumbnail img {

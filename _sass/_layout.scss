@@ -101,7 +101,10 @@
   @media (max-width: 48em) { 
     max-height: 145px;
   }
-  @media (min-width: 62em) {
+  @media (min-width: 768px) {
+    max-height: 185px;
+  }
+  @media (min-width: 992px) {
     max-height: 196px;
   }
   
