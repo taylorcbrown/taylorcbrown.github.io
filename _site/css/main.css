@@ -54,6 +54,9 @@ h3 {
 .gry-bdr {
   border: 1px grey solid; }
 
+img.desaturate {
+  filter: grayscale(100%); }
+
 .embed-responsive {
   margin-bottom: 10px; }
 

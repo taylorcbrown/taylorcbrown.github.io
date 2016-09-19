@@ -51,17 +51,20 @@
     <footer class="footer"> 
       <div class="container">
         <div class="row">
-          <p class="col-lg-6 col-md-5">&copy; {{ site.time | date: '%Y' }} Taylor Brown</p> 
-          <ul class="list-inline col-lg-6 col-md-7 text-md-right">
+          <ul class="list-inline col-lg-6 col-md-7">
+            <li class="list-inline-item">
+              <img class="desaturate img-circle" src="assets/img/taylor-brown.jpg" width="25" height="25" alt="Taylor Brown">
+            </li>
             <li class="list-inline-item">
               <span class="fa fa-youtube"></span> 
-                <a href="//www.youtube.com/user/{{ site.youtube_username }}">YouTube</a>
+              <a href="//www.youtube.com/user/{{ site.youtube_username }}">YouTube</a>
             </li>
             <li class="list-inline-item">
               <span class="fa fa-envelope"></span> 
               <a href="mailto:{{ site.email }}">{{ site.email }}</a>
             </li>
           </ul>
+          <p class="col-lg-6 col-md-5 text-md-right">&copy; {{ site.time | date: '%Y' }} Taylor Brown</p> 
         </div><!--row-->
       </div><!--container-->
     </footer>

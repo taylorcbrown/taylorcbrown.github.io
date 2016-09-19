@@ -77,3 +77,6 @@ h3 { color: $main-color !important; }
 .gry-bdr {
     border: 1px grey solid;
 }
+img.desaturate {
+  filter: grayscale(100%);
+}
