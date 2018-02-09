@@ -1,39 +1,33 @@
 ---
 layout: default
 ---
+<nav aria-label="breadcrumb">
+<ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="/">Home</a></li>
+  <li class="breadcrumb-item"><a href="/videos/">Videos</a></li>
+  <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
+</ol>
+</nav>
 
-<div class="bg main">
-	<header class="container">
-    <h1>{{ page.title }}</h1>
-	</header>
-</div><!--bg-->
+<div class="row">
 
-<div class="container">
-
-  <article class="post">
-
+  <article class="col-md-9">
     {{ content }}
+	</article>
 
-		<h2>Related Videos</h2>
-
-		<div class="row">
-
-			{% for post in site.related_posts limit:4 %}
-				{% if post.thumbnail_image %}
-				  <div class="col-sm-6 col-md-6 col-lg-3">
-				    <figure class="thumbnail">
-				      <a href="{{ post.url }}">
-				        <img src="{{ post.thumbnail_image }}" class="img-fluid" alt="{{ post.title }}">
-				        <figcaption>{{ post.title }}</figcaption> 
-				      </a>    
-				    </figure>
-				  </div>
-				{% else %}
-			    {{ post.content | thumbnail_url: post.url, post.title }}
-			  {% endif %}
-			{% endfor %}
-
-		</div><!--row-->
-  </article>
-
-</div>
+	<aside class="col-md-3">
+		<h5>Related Videos</h2>
+		{% for post in site.related_posts limit:4 %}
+			{% if post.thumbnail_image %}
+			    <figure class="thumbnail">
+			      <a href="{{ post.url }}">
+			        <img src="{{ post.thumbnail_image }}" class="img-fluid" alt="{{ post.title }}">
+			        <figcaption>{{ post.title }}</figcaption>
+			      </a>
+			    </figure>
+			{% else %}
+		    {{ post.content | thumbnail_url: post.url, post.title }}
+		  {% endif %}
+		{% endfor %}
+	</aside>
+</div><!--row-->

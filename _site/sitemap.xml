@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://taylorcbrown.com/videos/burglary.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/burglary.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/the-breakup.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/the-breakup.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/the-man.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/the-man.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/six-months.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/six-months.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/tech-support.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/tech-support.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/the-projector.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/the-projector.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/kid-cuisine.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/kid-cuisine.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/book-puppets.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/book-puppets.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/copy-room.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/copy-room.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/liaison.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/liaison.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/long-time-no-see.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/long-time-no-see.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/ketchup.html</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/ketchup.html</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/</loc>
-        <lastmod>2016-09-19T10:27:52-07:00</lastmod>
+        <loc>http://localhost:4000/</loc>
+        <lastmod>2018-02-08T19:39:44-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/css/main.css</loc>
-        <lastmod>2016-06-02T15:11:20-07:00</lastmod>
+        <loc>http://localhost:4000/css/main.css</loc>
+        <lastmod>2018-02-08T18:53:48-08:00</lastmod>
     </url>
     <url>
-        <loc>http://taylorcbrown.com/videos/</loc>
-        <lastmod>2016-09-19T10:19:13-07:00</lastmod>
+        <loc>http://localhost:4000/videos/</loc>
+        <lastmod>2018-02-08T19:18:11-08:00</lastmod>
     </url>
 </urlset>

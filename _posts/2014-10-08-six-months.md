@@ -12,6 +12,8 @@ description: Watch Six Months, where a couple has a small fight on their six mon
 	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/kuTtJEP-CUQ?rel=0" allowfullscreen></iframe>
 </div>
 
+<h1>{{page.title}}</h1>
+
 A couple has a small fight on their six month anniversary. They discuss fashion, the middle class and the importance of cheese.
 
 Written and Directed by Taylor Brown

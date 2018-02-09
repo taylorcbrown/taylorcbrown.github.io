@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
-description: Watch comedy videos made by Taylor Brown. All videos made in Chicago.
+description: Watch them here without the YouTube distractions.
 ---
 
 <div class="row">
@@ -12,7 +12,7 @@ description: Watch comedy videos made by Taylor Brown. All videos made in Chicag
       <figure class="thumbnail">
         <a href="{{ post.url }}">
           <img src="{{ post.thumbnail_image }}" class="img-fluid" alt="{{ post.title }}">
-          <figcaption>{{ post.title }}</figcaption> 
+          <figcaption>{{ post.title }}</figcaption>
         </a>    
       </figure>
     </div>

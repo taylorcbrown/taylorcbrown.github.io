@@ -6,8 +6,8 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$header-font-family: 'Cantata One', serif;
+$base-font-family: 'Bitter', Georgia, Times New Roman, serif;
+$header-font-family: 'Alfa Slab One', Georgia, Times New Roman, cursive;
 
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
@@ -21,8 +21,10 @@ $yellow: #f0ad4e;
 $grey: rgba(255,255,255,.5);
 $dark: #333;
 $light: #eee;
+$blue: #1b9afa;
+$purple: #9343fa;
 
-$main-color: $yellow;
+$main-color: $blue;
 
 
 // Using media queries with like this:

@@ -11,6 +11,8 @@ description: Watch Kid Cuisine or (The Unexpected Dietary Ignorance). A guy gets
 	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/2VJXFaYLVW0?rel=0" allowfullscreen></iframe>
 </div>
 
+<h1>{{page.title}}</h1>
+
 A guy gets hungry while hanging out at his friend's place for the first time. He explores the apartment and complements the fine decor. The food options are less palatable. There's only chocolate milk and Kid Cuisines.
 
 Written, Directed & Produced by Taylor Brown
@@ -25,42 +27,42 @@ Jacob Eugene Horn
 Production Photos
 -----------------
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
   <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+	<ol class="carousel-indicators">
+		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
+  <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/kid-cuisine-shopping.jpg" alt="Shopping for Kid Cuisines">
+      <img class="d-block w-100" src="/assets/img/kid-cuisine-shopping.jpg" alt="Shopping for Kid Cuisines">
     </div>  
     <div class="carousel-item">
-      <img src="/assets/img/kid-cuisine-taylor-jacob-2.jpg" alt="Taylor Brown and Jacob Eugene Horn">
+      <img class="d-block w-100" src="/assets/img/kid-cuisine-taylor-jacob-2.jpg" alt="Taylor Brown and Jacob Eugene Horn">
     </div>    
     <div class="carousel-item">
-      <img src="/assets/img/kid-cuisine-taylor-zack.jpg" alt="Taylor Brown and Zack Shornick">
+      <img class="d-block w-100" src="/assets/img/kid-cuisine-taylor-zack.jpg" alt="Taylor Brown and Zack Shornick">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/kid-cuisine-jacob.jpg" alt="Jacob Eugene Horn">
+      <img class="d-block w-100" src="/assets/img/kid-cuisine-jacob.jpg" alt="Jacob Eugene Horn">
     </div>  
     <div class="carousel-item">
-      <img src="/assets/img/kid-cuisine-taylor-jacob.jpg" alt="Taylor Brown and Jacob Eugene Horn">
+      <img class="d-block w-100" src="/assets/img/kid-cuisine-taylor-jacob.jpg" alt="Taylor Brown and Jacob Eugene Horn">
     </div>
   </div>
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="icon-prev" aria-hidden="true"></span>
+	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="icon-next" aria-hidden="true"></span>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>

@@ -11,6 +11,8 @@ description: Watch The Breakup, a short comedy video where a guy gets breakup ad
 	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/eu-GFy3DidE?rel=0" allowfullscreen></iframe>
 </div>
 
+<h1>{{page.title}}</h1>
+
 A guy gets breakup advice from his girlfriend's best friend.
 
 Directed by Ben LeMenager<br>

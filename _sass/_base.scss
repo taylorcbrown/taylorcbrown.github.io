@@ -22,52 +22,33 @@ html {
  * Basic styling
  */
 body {
+  font-family: $base-font-family !important;
+  background-color: #eee !important;
   /* Margin bottom by footer height */
-  margin-bottom: 50px !important;
-  @media (max-width: 48em) { 
-    margin-bottom: 110px !important;
-  }
+  margin-bottom: 120px !important;
 }
 
-a { 
+a {
   color: $main-color !important;
 }
 
 // Headers
-h1, h2, .navbar-brand {
+h1, h2, h3, h4, h5, .navbar-brand {
   font-family: $header-font-family !important;
-}
-
-h3 { color: $main-color !important; }
-
-/**
- * Clearfix
- */
-%clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
 }
 
 .btn {
   color: white !important;
 }
 
-.smaller {
-//Makes text smaller for small screens
-  @media (max-width: 34em) { 
-    font-size: 1.5rem;
-    height: 38px;
-    line-height: 38px;
-    white-space: nowrap;
-  }
-
+.base {
+    font-family: $base-font-family !important;
 }
 
 // Fancies
+.purple {
+  color: $purple !important;
+}
 .wht-bdr {
     border: 1px white solid;
 }

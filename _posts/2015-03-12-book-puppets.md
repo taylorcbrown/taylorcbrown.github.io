@@ -11,12 +11,14 @@ description: Watch Book Puppets, a short comedy video where a couple uses their 
 	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/3zPYY1B13uM?rel=0" allowfullscreen></iframe>
 </div>
 
+<h1>{{page.title}}</h1>
+
 A couple uses their book covers as puppets.<br>
 His: "Seven Plays by Sam Shepard"<br>
 Hers: "Seabiscuit"<br>
 Read the latter.
 
-Written, Directed & Produced by Taylor Brown 
+Written, Directed & Produced by Taylor Brown
 
 Featuring:<br>
 Katie Froelich<br>

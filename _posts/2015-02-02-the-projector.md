@@ -11,6 +11,8 @@ description: Watch The Projector. A woman can't get the projector working for an
 	<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/VOD1jlWt6o0?rel=0" allowfullscreen></iframe>
 </div>
 
+<h1>{{page.title}}</h1>
+
 A woman can't get the projector working for an important presentation. Her coworkers are less than helpful.
 
 Written and Directed by Taylor Brown
@@ -30,55 +32,55 @@ Sound Mixer - Alexander Andro
 Production Photos
 -----------------
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="false">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="5"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="6"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="7"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="8"></li>
+		<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
   </ol>
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
+	<div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/the-projector-jack-sean.jpg" alt="Jack Pelzer and Sean Price">
+      <img class="d-block w-100" src="/assets/img/the-projector-jack-sean.jpg" alt="Jack Pelzer and Sean Price">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-mary-beth-smith.jpg" alt="Mary Beth Smith">
+      <img class="d-block w-100" src="/assets/img/the-projector-mary-beth-smith.jpg" alt="Mary Beth Smith">
     </div>   
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-jack-pelzer-2.jpg" alt="Jack Pelzer">
+      <img class="d-block w-100" src="/assets/img/the-projector-jack-pelzer-2.jpg" alt="Jack Pelzer">
     </div>    
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-colleen-gburek-2.jpg" alt="Colleen Gburek">
+      <img class="d-block w-100" src="/assets/img/the-projector-colleen-gburek-2.jpg" alt="Colleen Gburek">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-sean-price.jpg" alt="Sean Price">
+      <img class="d-block w-100" src="/assets/img/the-projector-sean-price.jpg" alt="Sean Price">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-taylor-brown.jpg" alt="Taylor Brown">
+      <img class="d-block w-100" src="/assets/img/the-projector-taylor-brown.jpg" alt="Taylor Brown">
     </div>         
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-jack-pelzer.jpg" alt="Jack Pelzer">
+      <img class="d-block w-100" src="/assets/img/the-projector-jack-pelzer.jpg" alt="Jack Pelzer">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/the-projector-mary-beth-smith-2.jpg" alt="Mary Beth Smith">
+      <img class="d-block w-100" src="/assets/img/the-projector-mary-beth-smith-2.jpg" alt="Mary Beth Smith">
     </div>
   </div>
 
   <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="icon-prev" aria-hidden="true"></span>
+	<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="icon-next" aria-hidden="true"></span>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
 </div>

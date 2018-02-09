@@ -3,17 +3,21 @@
     margin-bottom: 10px;
 }
 
-//Nav
+header {
+  height: 100px;
+  line-height: 100px;
 
-.navbar {
-  border-radius: 0 !important;
-
-  .nav-link  {
-    color: $grey !important;
-    
-    &:hover {
-      color: $main-color !important;
+  .logo {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    font-family: $header-font-family !important;
+      &:hover {
+        text-decoration: none;
+      }
     }
+
+  nav {
+    float: right;
   }
 }
 
@@ -23,8 +27,6 @@
   color: #fafafa;
   text-shadow: 2px 2px 2px #000000;
   filter: dropshadow(color=#000000, offx=2, offy=2);
-  margin-bottom: -6px;
-
   video {
     width: 100%;
   }
@@ -40,24 +42,26 @@
 
   h1 {
     color: $main-color;
-    @media (max-width: 34em) { 
+    @media (max-width: 34em) {
       font-size: 2rem;
     }
 
   }
   p {
-    @media (max-width: 34em) { 
+    @media (max-width: 34em) {
       font-size: 1rem;
     }
   }
 
 }
 
-
+.breadcrumb {
+  background: #ddd !important;
+}
 
 .bg {
   padding: 1.5rem 0;
-  
+
   &.dark {
     background: $dark;
     color: white;
@@ -65,7 +69,7 @@
       color: $main-color;
     }
   }
- 
+
   &.light {
     background: $light;
   }
@@ -98,7 +102,7 @@
   overflow: hidden;
   max-height: 196px;
   margin-bottom: 1.875rem;
-  @media (max-width: 48em) { 
+  @media (max-width: 48em) {
     max-height: 145px;
   }
   @media (min-width: 768px) {
@@ -107,7 +111,7 @@
   @media (min-width: 992px) {
     max-height: 196px;
   }
-  
+
 
   img {
     filter: grayscale(100%);
@@ -121,7 +125,7 @@
       filter: grayscale(0%);
       -webkit-filter: grayscale(0%);
 
-    } 
+    }
   }
 
   figcaption {
@@ -150,18 +154,12 @@
 /**
  * Site footer
  */
-
 .footer {
+  background: #444;
+  color: #eee;
   position: absolute;
   bottom: 0;
-  color: #a0a0a0;
   width: 100%;
-  padding: 1rem 0;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  background-color: #141414;
-
-  @media (max-width: 48em) { 
-    height: 120px;
-  }
+  min-height: 60px; /* Set the fixed height of the footer here */
+  padding-top: 20px;
 }

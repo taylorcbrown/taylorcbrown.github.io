@@ -4,17 +4,19 @@
     <title>Taylor Brown</title>
     <description>Taylor Brown is an SEO Specialist for Tribune Publishing. He's also a Los Angeles filmmaker and comedy person.
 </description>
-    <link>http://taylorcbrown.com/</link>
-    <atom:link href="http://taylorcbrown.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 19 Sep 2016 10:27:52 -0700</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 10:27:52 -0700</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 08 Feb 2018 19:49:16 -0800</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 19:49:16 -0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Ketchup</title>
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/guftIrlch2o?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Ketchup&lt;/h1&gt;
 
 &lt;p&gt;It’s like you’re squeezing a big ketchup bottle that keeps flowing and flowing and flowing and flowing and flowing and flowing and flowing.&lt;/p&gt;
 
@@ -28,8 +30,8 @@ Based on the eating habits of Janine Schaults&lt;/p&gt;
 &lt;p&gt;Music: “Dewey Square” by &lt;a href=&quot;http://www.myspace.com/rawbounce&quot;&gt;Hugo ‘Droopy’ Contini&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/ketchup.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/ketchup.html</guid>
+        <link>http://localhost:4000/videos/ketchup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/ketchup.html</guid>
         
         
         <category>videos</category>
@@ -42,15 +44,17 @@ Based on the eating habits of Janine Schaults&lt;/p&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/AWutn4hW1UQ?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h1&gt;Long Time No See&lt;/h1&gt;
+
 &lt;p&gt;Two old friends run into each other on the street, though one awkwardly doesn’t remember the other. After some prying, the faded memories return and they catch up.&lt;/p&gt;
 
-&lt;p&gt;Written, Directed &amp;amp; Produced by Taylor Brown&lt;br /&gt; 
+&lt;p&gt;Written, Directed &amp;amp; Produced by Taylor Brown&lt;br /&gt;
 Featuring: Sal Mascali and Taylor Brown&lt;br /&gt;
 Camera: Brandon Shockney&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Aug 2016 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/long-time-no-see.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/long-time-no-see.html</guid>
+        <link>http://localhost:4000/videos/long-time-no-see.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/long-time-no-see.html</guid>
         
         
         <category>videos</category>
@@ -63,8 +67,10 @@ Camera: Brandon Shockney&lt;/p&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/kiiLTzW_vIg?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;h1&gt;Liaison&lt;/h1&gt;
+
 &lt;p&gt;Recent exes won’t talk to each other. But they will talk about each other to their mutual friend.&lt;br /&gt;
-This is a sequel to “&lt;a href=&quot;http://taylorcbrown.com/videos/the-breakup.html&quot;&gt;The Breakup&lt;/a&gt;.”&lt;/p&gt;
+This is a sequel to “&lt;a href=&quot;http://taylorcbrown.com/videos/the-breakup.html&quot;&gt;The Breakup&lt;/a&gt;”.&lt;/p&gt;
 
 &lt;p&gt;Written, Directed &amp;amp; Produced by Taylor Brown&lt;/p&gt;
 
@@ -79,8 +85,8 @@ Make Up: Samantha Umstead&lt;/p&gt;
 &lt;p&gt;Music: “Bicycle Waltz” by &lt;a href=&quot;http://goodbyekumiko.bandcamp.com&quot;&gt;Goodbye Kumiko&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 May 2015 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/liaison.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/liaison.html</guid>
+        <link>http://localhost:4000/videos/liaison.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/liaison.html</guid>
         
         
         <category>videos</category>
@@ -92,6 +98,8 @@ Make Up: Samantha Umstead&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/U728kXkz8Ic?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Copy Room&lt;/h1&gt;
 
 &lt;p&gt;The copy machine is magic.&lt;/p&gt;
 
@@ -110,59 +118,62 @@ Andrew Garman&lt;/p&gt;
 
 &lt;h2 id=&quot;production-photos&quot;&gt;Production Photos&lt;/h2&gt;
 
-&lt;div id=&quot;carousel-example-generic&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;div id=&quot;carouselExampleIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;false&quot;&gt;
   &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
   &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
     &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img src=&quot;/assets/img/copy-room-john-curb-stomp.jpg&quot; alt=&quot;John Campbell stomping Taylor Brown&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/copy-room-john-curb-stomp.jpg&quot; alt=&quot;John Campbell stomping Taylor Brown&quot; /&gt;
       &lt;div class=&quot;carousel-caption&quot;&gt;
         &lt;p&gt;The shooting script had John stomping on Taylor, but we decided to use the paper cutter once on set.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/copy-room-taylor-curb-stomp.jpg&quot; alt=&quot;John stomping Taylor&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/copy-room-taylor-curb-stomp.jpg&quot; alt=&quot;John stomping Taylor&quot; /&gt;
       &lt;div class=&quot;carousel-caption&quot;&gt;
         &lt;p&gt;The reverse angle.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/copy-room-john-andrew.jpg&quot; alt=&quot;John Campbell and Andrew Garman&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/copy-room-john-andrew.jpg&quot; alt=&quot;John Campbell and Andrew Garman&quot; /&gt;
       &lt;div class=&quot;carousel-caption&quot;&gt;
         &lt;p&gt;Andrew joking about a candy store robbery. I watched this footage again and again even though I couldn't use it.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/copy-room-taylor-brown.jpg&quot; alt=&quot;Taylor Brown being vulnerable&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/copy-room-taylor-brown.jpg&quot; alt=&quot;Taylor Brown being vulnerable&quot; /&gt;
       &lt;div class=&quot;carousel-caption&quot;&gt;
         &lt;p&gt;Me being vulnerable, as rare as Nessie.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/copy-room-andrew-garman.jpg&quot; alt=&quot;Andrew Garman&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/copy-room-andrew-garman.jpg&quot; alt=&quot;Andrew Garman&quot; /&gt;
       &lt;div class=&quot;carousel-caption&quot;&gt;
         &lt;p&gt;Andrew with his new friend.&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;icon-prev&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+
+	&lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+		&lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+		&lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
-  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;icon-next&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+	&lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
     &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
   &lt;/a&gt;
+
+
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 01 Apr 2015 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/copy-room.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/copy-room.html</guid>
+        <link>http://localhost:4000/videos/copy-room.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/copy-room.html</guid>
         
         
         <category>videos</category>
@@ -174,6 +185,8 @@ Andrew Garman&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/3zPYY1B13uM?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Book Puppets&lt;/h1&gt;
 
 &lt;p&gt;A couple uses their book covers as puppets.&lt;br /&gt;
 His: “Seven Plays by Sam Shepard”&lt;br /&gt;
@@ -193,8 +206,8 @@ Patrick McLean&lt;/p&gt;
 “Sandu” by Hugo ‘Droopy’ Contini&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/book-puppets.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/book-puppets.html</guid>
+        <link>http://localhost:4000/videos/book-puppets.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/book-puppets.html</guid>
         
         
         <category>videos</category>
@@ -206,6 +219,8 @@ Patrick McLean&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/2VJXFaYLVW0?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Kid Cuisine or (The Unexpected Dietary Ignorance)&lt;/h1&gt;
 
 &lt;p&gt;A guy gets hungry while hanging out at his friend’s place for the first time. He explores the apartment and complements the fine decor. The food options are less palatable. There’s only chocolate milk and Kid Cuisines.&lt;/p&gt;
 
@@ -220,49 +235,49 @@ Jacob Eugene Horn&lt;/p&gt;
 
 &lt;h2 id=&quot;production-photos&quot;&gt;Production Photos&lt;/h2&gt;
 
-&lt;div id=&quot;carousel-example-generic&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;false&quot;&gt;
+&lt;div id=&quot;carouselExampleIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;false&quot;&gt;
   &lt;!-- Indicators --&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+	&lt;ol class=&quot;carousel-indicators&quot;&gt;
+		&lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
   &lt;/ol&gt;
 
   &lt;!-- Wrapper for slides --&gt;
-  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
     &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img src=&quot;/assets/img/kid-cuisine-shopping.jpg&quot; alt=&quot;Shopping for Kid Cuisines&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/kid-cuisine-shopping.jpg&quot; alt=&quot;Shopping for Kid Cuisines&quot; /&gt;
     &lt;/div&gt;  
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/kid-cuisine-taylor-jacob-2.jpg&quot; alt=&quot;Taylor Brown and Jacob Eugene Horn&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/kid-cuisine-taylor-jacob-2.jpg&quot; alt=&quot;Taylor Brown and Jacob Eugene Horn&quot; /&gt;
     &lt;/div&gt;    
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/kid-cuisine-taylor-zack.jpg&quot; alt=&quot;Taylor Brown and Zack Shornick&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/kid-cuisine-taylor-zack.jpg&quot; alt=&quot;Taylor Brown and Zack Shornick&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/kid-cuisine-jacob.jpg&quot; alt=&quot;Jacob Eugene Horn&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/kid-cuisine-jacob.jpg&quot; alt=&quot;Jacob Eugene Horn&quot; /&gt;
     &lt;/div&gt;  
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/kid-cuisine-taylor-jacob.jpg&quot; alt=&quot;Taylor Brown and Jacob Eugene Horn&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/kid-cuisine-taylor-jacob.jpg&quot; alt=&quot;Taylor Brown and Jacob Eugene Horn&quot; /&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 
   &lt;!-- Controls --&gt;
-  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;icon-prev&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+	&lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
     &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
-  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;icon-next&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
     &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 18 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://taylorcbrown.com/videos/kid-cuisine.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/kid-cuisine.html</guid>
+        <link>http://localhost:4000/videos/kid-cuisine.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/kid-cuisine.html</guid>
         
         
         <category>videos</category>
@@ -274,6 +289,8 @@ Jacob Eugene Horn&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/VOD1jlWt6o0?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;The Projector&lt;/h1&gt;
 
 &lt;p&gt;A woman can’t get the projector working for an important presentation. Her coworkers are less than helpful.&lt;/p&gt;
 
@@ -293,62 +310,62 @@ Sound Mixer - Alexander Andro&lt;/p&gt;
 
 &lt;h2 id=&quot;production-photos&quot;&gt;Production Photos&lt;/h2&gt;
 
-&lt;div id=&quot;carousel-example-generic&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;false&quot;&gt;
+&lt;div id=&quot;carouselExampleIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;false&quot;&gt;
   &lt;!-- Indicators --&gt;
   &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carousel-example-generic&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
+		&lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
   &lt;/ol&gt;
 
   &lt;!-- Wrapper for slides --&gt;
-  &lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+	&lt;div class=&quot;carousel-inner&quot;&gt;
     &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-jack-sean.jpg&quot; alt=&quot;Jack Pelzer and Sean Price&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-jack-sean.jpg&quot; alt=&quot;Jack Pelzer and Sean Price&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-mary-beth-smith.jpg&quot; alt=&quot;Mary Beth Smith&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-mary-beth-smith.jpg&quot; alt=&quot;Mary Beth Smith&quot; /&gt;
     &lt;/div&gt;   
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-jack-pelzer-2.jpg&quot; alt=&quot;Jack Pelzer&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-jack-pelzer-2.jpg&quot; alt=&quot;Jack Pelzer&quot; /&gt;
     &lt;/div&gt;    
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-colleen-gburek-2.jpg&quot; alt=&quot;Colleen Gburek&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-colleen-gburek-2.jpg&quot; alt=&quot;Colleen Gburek&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-sean-price.jpg&quot; alt=&quot;Sean Price&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-sean-price.jpg&quot; alt=&quot;Sean Price&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-taylor-brown.jpg&quot; alt=&quot;Taylor Brown&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-taylor-brown.jpg&quot; alt=&quot;Taylor Brown&quot; /&gt;
     &lt;/div&gt;         
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-jack-pelzer.jpg&quot; alt=&quot;Jack Pelzer&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-jack-pelzer.jpg&quot; alt=&quot;Jack Pelzer&quot; /&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img src=&quot;/assets/img/the-projector-mary-beth-smith-2.jpg&quot; alt=&quot;Mary Beth Smith&quot; /&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/assets/img/the-projector-mary-beth-smith-2.jpg&quot; alt=&quot;Mary Beth Smith&quot; /&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 
   &lt;!-- Controls --&gt;
-  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;icon-prev&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+	&lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
     &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
   &lt;/a&gt;
-  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel-example-generic&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;icon-next&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselExampleIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
     &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 02 Feb 2015 00:00:00 -0800</pubDate>
-        <link>http://taylorcbrown.com/videos/the-projector.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/the-projector.html</guid>
+        <link>http://localhost:4000/videos/the-projector.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/the-projector.html</guid>
         
         
         <category>videos</category>
@@ -360,6 +377,8 @@ Sound Mixer - Alexander Andro&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/qryZ3F_eDuo?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Tech Support&lt;/h1&gt;
 
 &lt;p&gt;A woman calls tech support for help. The technician gladly assists her, but makes strange noises with his mouth.&lt;/p&gt;
 
@@ -375,8 +394,8 @@ Sound Mixer: Alexander Andro&lt;/p&gt;
 &lt;p&gt;Music: “Favorite Secrets” by Waylon Thornton&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://taylorcbrown.com/videos/tech-support.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/tech-support.html</guid>
+        <link>http://localhost:4000/videos/tech-support.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/tech-support.html</guid>
         
         
         <category>videos</category>
@@ -388,6 +407,8 @@ Sound Mixer: Alexander Andro&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/kuTtJEP-CUQ?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;Six Months&lt;/h1&gt;
 
 &lt;p&gt;A couple has a small fight on their six month anniversary. They discuss fashion, the middle class and the importance of cheese.&lt;/p&gt;
 
@@ -403,8 +424,8 @@ Sound Mixer: Alexander Andro&lt;/p&gt;
 &lt;p&gt;Music: “when” by Stephan Siebert&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Oct 2014 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/six-months.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/six-months.html</guid>
+        <link>http://localhost:4000/videos/six-months.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/six-months.html</guid>
         
         
         <category>videos</category>
@@ -416,6 +437,8 @@ Sound Mixer: Alexander Andro&lt;/p&gt;
         <description>&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
 	&lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;http://www.youtube.com/embed/2gK33vtXB3U?rel=0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
+&lt;h1&gt;The Man&lt;/h1&gt;
 
 &lt;p&gt;Two young men discuss the finer points of everything. They have rackets and play. Gentlemen fight with umbrellas for their hats. The Man observes all. Except the viewer. She sees even him.&lt;/p&gt;
 
@@ -437,8 +460,8 @@ Sound Mixer: Alexander Andro&lt;/p&gt;
 &lt;p&gt;Song: “Une Glace au Citron [A Lemon Ice] (acoustique)” by Miss Emma&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://taylorcbrown.com/videos/the-man.html</link>
-        <guid isPermaLink="true">http://taylorcbrown.com/videos/the-man.html</guid>
+        <link>http://localhost:4000/videos/the-man.html</link>
+        <guid isPermaLink="true">http://localhost:4000/videos/the-man.html</guid>
         
         
         <category>videos</category>

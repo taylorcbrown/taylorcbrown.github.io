@@ -2,10 +2,11 @@
 title: Taylor Brown
 email: taylor@taylorcbrown.com
 description: > # this means to ignore newlines until "baseurl:"
-  Taylor Brown is an SEO Specialist for Tribune Publishing. He's also a Los Angeles filmmaker and comedy person.
+  Taylor Brown is a comedian and filmmaker living in Los Angeles.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://taylorcbrown.com" # the base hostname & protocol for your site
 github_username:  taylorcbrown
 youtube_username: mrtaylorb
 permalink: none
 include: [".htaccess"]
+include: ["robots.txt"]
