@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
-description: Watch them here without the YouTube distractions.
+description: Watch them without the YouTube distractions.
 ---
 
 <div class="row">
